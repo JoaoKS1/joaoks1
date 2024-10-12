@@ -2,7 +2,7 @@
 ### I´m 20 years old
 - 💻 I currently work with back-end and front-end
 - 👨‍🎓 I´m studying Software Engineering at PUC-RS
-- 📚 I´m studying DotNet
+- 📚 I´m studying .Net
 
 ## 
   <div>
