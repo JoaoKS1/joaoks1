@@ -1,5 +1,5 @@
 ## Hi👋! I´m Joao Vitor Krampe
-### I´m 21 years old
+### I´m 22 years old
 - 💻 I currently work with back-end and front-end
 - 👨‍🎓 I´m studying Software Engineering at PUC-RS
 - 📚 I´m studying .Net
